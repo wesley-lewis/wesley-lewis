@@ -20,11 +20,17 @@ Diving deep into software and systems gives me a unique ability to understand fr
   * C++
 
 
-- 🌱 I’m currently learning about git internals to be able to add some features to the Git system
+- 🌱 I’m currently learning about the following topic: 
+
+- LLVM IR. Compiler backends are just a whole new world.
+
+- git internals to be able to add some features to the Git system
 
 - I'm also diving into WM and making my own environment that I can copy in different Linux distributions. I have done a bit of distro hoping starting with fedora, then Arch, then Debian then Manjaro and now currently I use OpenSUSE Tumbleweed (yes, the Chameleon guys). I do like Tumbleweed for it's near frequent updates that comes along with stability which is such a strong combination
 
-- 👯 I’m looking to collaborate on package management software. I've started researching on RPM and looking at the codebase of Zypper
+- I’m looking to collaborate on package management software. I've started researching on RPM and looking at the codebase of Zypper
+
+If you have similar interests please reach out to me on my LinkedIn
 
 -  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/wesley-lewis-859933234/)
 
