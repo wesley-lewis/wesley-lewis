@@ -4,7 +4,7 @@ I'm a Low Level Software Engineer who loves figuring out software from their imp
 
 Why?
 
-Without implemenation I'm a donkey, without ideas I'm a donkey - (By me)
+Without implemenation I'm a donkey, without ideas I'm a donkey. With both I'm having fun.  - (By me)
 
 Diving deep into software and systems gives me a unique ability to understand from the bottom level and then try to again interpret from the top level. Switching from 1 feet view to 10000 feet view is a good skill to learn - (Trust me)
 
