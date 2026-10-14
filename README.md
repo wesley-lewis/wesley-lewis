@@ -28,7 +28,7 @@ Diving deep into software and systems gives me a unique ability to understand fr
 
     * I'm also diving into WM and making my own environment that I can copy in different Linux distributions. I have done a bit of distro hoping starting with fedora, then Arch, then Debian then Manjaro and now currently I use OpenSUSE Tumbleweed (yes, the Chameleon guys). I do like Tumbleweed for it's near frequent updates that comes along with stability which is such a strong combination
 
-    * I’m looking to collaborate on package management software. I've started researching on RPM and looking at the codebase of Zypper
+    * Currently I'm contributing to [GCCrs](https://github.com/Rust-GCC/gccrs) project.
 
 ### If you have similar interests please reach out to me on my LinkedIn
 
@@ -37,7 +37,7 @@ Diving deep into software and systems gives me a unique ability to understand fr
 -  ⚡ Fun fact: I can be intrigued by any random topics and I have to control myself from jumping topics frequently :)
 
 
-###### Last Updated: 2nd October, 2025
+###### Last Updated: 14th October, 2026
 <!--
 **wesley-lewis/wesley-lewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
